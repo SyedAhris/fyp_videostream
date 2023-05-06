@@ -1,4 +1,4 @@
-FROM python:3.10.10
+FROM base_cv2_docker:latest
 
 RUN mkdir /code
 
